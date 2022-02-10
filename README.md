@@ -45,3 +45,7 @@ How to read this section
 - Enviroment
     - NGINX - web server
     - Ubuntu 20.04 LTS
+
+# Assignments
+
+- 
